@@ -1,4 +1,5 @@
-#Crypto_Visualizer
+## Crypto_Visualizer
+
 • React, Firebase, Material-UI, Saas, Bootstrap
 • Tracker is a comprehensive real time analyser utilizing a stock tracking api. It visualizes real time prices for online stocks present in the market.
 • The project offers a responsive design for accessibility across multiple devices, with a dark and light theme for optimal viewing in any lighting. 
